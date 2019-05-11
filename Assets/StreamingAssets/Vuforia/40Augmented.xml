@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pip-40" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-39" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-38" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-37" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-36" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-35" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-34" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-33" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-32" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-31" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-30" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-29" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-28" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-27" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-26" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-25" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-24" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-23" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-22" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-21" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-20" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-19" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-18" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-17" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-16" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-15" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-14" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-13" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-12" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-11" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-10" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-9" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-8" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-7" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-6" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-4" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-3" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-2" size="2.000000 1.465241" />
+    <ImageTarget name="Pip-1" size="2.000000 2.729927" />
+    <ImageTarget name="Pip-5" size="2.000000 2.729927" />
+  </Tracking>
+</QCARConfig>
